@@ -1,0 +1,4 @@
+﻿  PolCounterView.cpp
+C:\Users\petar\source\repos\PolCounter\resource.h(33,1): warning C4005: 'IDCANCEL': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11133,1): message : see previous definition of 'IDCANCEL'
+  PolCounter.vcxproj -> C:\Users\petar\source\repos\PolCounter\x64\Debug\PolCounter.exe
